@@ -1,0 +1,5 @@
+text-shadow: 2px 2px gainsboro: This will add a shift of the text by 2px on x-axis and by 2px on y-axis followed by the color to give a shadow effect.
+
+All the elements with class link will get effected by this CSS - display: inline; - this will help to keep all links on the same line padding-left: 33px; padding-right: 25px; - this will add padding to the element display: inline; - this will the font style font-size: 20px - this will increase the size of the font
+
+!important; This code line means that these css properties will be reflected to all anchor tags inside id(#)writings, No matter if any other css properties are applied to anchor tag in the file.
